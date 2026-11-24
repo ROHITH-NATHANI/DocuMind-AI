@@ -1,0 +1,7 @@
+Operating systems: A process is a program in execution with its own address space. Threads within a process share its address space and resources. Deadlock occurs when processes wait indefinitely for resources held by each other. The four necessary conditions are mutual exclusion, hold and wait, no preemption, and circular wait.
+
+Databases: A primary key uniquely identifies a row. A foreign key references a key in another table and helps enforce referential integrity. Normalization reduces redundancy and update anomalies. ACID stands for atomicity, consistency, isolation and durability.
+
+Networking: TCP provides a reliable, ordered byte stream with retransmission. UDP sends datagrams without guaranteed delivery or ordering. DNS resolves domain names to IP addresses. HTTP is an application-layer protocol for transferring resources.
+
+Machine learning: Supervised learning uses labeled examples. Unsupervised learning discovers patterns in unlabeled data. Overfitting occurs when a model performs well on training data but generalizes poorly. Precision is true positives divided by predicted positives; recall is true positives divided by actual positives.

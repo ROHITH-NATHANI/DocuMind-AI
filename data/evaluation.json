@@ -1,0 +1,8 @@
+[
+ {"question":"What are the four necessary conditions for deadlock?","answer":"Mutual exclusion, hold and wait, no preemption, circular wait","evidence":"four necessary conditions"},
+ {"question":"What does ACID stand for?","answer":"Atomicity, consistency, isolation and durability","evidence":"ACID stands for"},
+ {"question":"What does DNS do?","answer":"Resolves domain names to IP addresses","evidence":"DNS resolves"},
+ {"question":"What is overfitting?","answer":"A model performs well on training data but generalizes poorly","evidence":"Overfitting occurs"},
+ {"question":"Does UDP guarantee delivery?","answer":"No","evidence":"UDP sends datagrams"},
+ {"question":"What is a foreign key?","answer":"References a key in another table","evidence":"foreign key references"}
+]
